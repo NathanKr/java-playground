@@ -4,7 +4,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 // Extend HttpServlet class
-public class MyServlet extends HttpServlet {
+public class HelloWorld extends HttpServlet {
  
    private String message;
 
